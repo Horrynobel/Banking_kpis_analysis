@@ -41,7 +41,7 @@ The goal is to clean the data, compute key performance indicators (KPIs), visual
  Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/banking-kpi-analysis.git
+   git clone https://github.com/Horrynobel/Banking_kpis_analysis.git
    cd banking-kpi-analysis
 
 - `requirements.txt`  
